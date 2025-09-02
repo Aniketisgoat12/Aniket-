@@ -1,4 +1,4 @@
-# hi i am aniket 
+# Hi i am Aniket 
 
 -i am computer Science - cybersecurity student at DSU, banglore</br> 
 - my git hub repositeries would mostly contain my projects, experiments, and practice work as I continue learning and building my skills in programming and technology.</br>
